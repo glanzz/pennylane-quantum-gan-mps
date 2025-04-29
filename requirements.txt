@@ -1,0 +1,6 @@
+PennyLane
+torch
+torchvision
+torchaudio
+pandas
+matplotlib
