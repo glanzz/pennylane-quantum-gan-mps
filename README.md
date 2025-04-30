@@ -1,5 +1,5 @@
 # Quantum General Adversial Networks
-The [notebook](./qgan.ipynb) implements QGAN compatible with following the code in Pennylane tutorial: https://pennylane.ai/qml/demos/tutorial_quantum_gans.
+The [notebook](./qgan.ipynb) implements QGAN following the code from Pennylane tutorial: https://pennylane.ai/qml/demos/tutorial_quantum_gans.
 The code is tweaked to be compatible for training on Metal Performance Shaders (MPS) backend.
 In addition, the following changes are done to achieve better results:
 - Initial state is encoded using Rx gates instead of Ry gates used in tutorial
