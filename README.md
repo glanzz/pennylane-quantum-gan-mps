@@ -18,15 +18,15 @@ In addition, the following changes are done to achieve better results:
 
 ### Installation
 - Setup virtual environment
-```python
+```bash
 python3 -m virtualenv venv
 ```
 - Activate virtual environment
-```python
+```bash
 source venv/bin/activate
 ```
 - Install requirements.txt
-```python
+```bash
 pip install requirements.txt
 ```
 
